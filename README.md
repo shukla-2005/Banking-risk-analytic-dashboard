@@ -564,43 +564,22 @@ Update the data source path if required and select **Refresh**.
 ## 🖼️ Dashboard Screenshots
 
 ### Risk Overview
-
-```markdown
 ![Risk Overview](screenshots/risk_overview.png)
-```
 
 ### Customer Risk
-
-```markdown
 ![Customer Risk](screenshots/customer_risk.png)
-```
 
 ### Lending Exposure
-
-```markdown
 ![Lending Exposure](screenshots/lending_exposure.png)
-```
 
 ### Financial Strength
-
-```markdown
 ![Financial Strength](screenshots/financial_strength.png)
-```
 
 ### Branch Analysis
-
-```markdown
-![Branch Analysis](screenshorts/branch_analysis.png)
-```
+![Branch Analysis](screenshots/branch_analysis.png)
 
 ### Customer 360°
-
-```markdown
 ![Customer 360](screenshots/customer_360.png)
-```
-
----
-
 ## 🚀 Future Improvements
 
 - Automate data refresh.
