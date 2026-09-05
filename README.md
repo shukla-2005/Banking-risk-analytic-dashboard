@@ -486,20 +486,22 @@ Banking-Risk-Analytics/
 │
 ├── data/
 │   ├── raw/
-│   │   └── Banking(2).csv
-│   └── processed/
-│
+│   │   └── Banking.csv
+│  
 ├── notebooks/
 │   └── EDA.ipynb
 │
 ├── sql/
-│   └── banking_risk_operations_mysql.sql
+│   └── banking_risk.sql
 │
 ├── powerbi/
 │   └── Banking_Risk.pbix
+|
+├── presentation/
+│   └── Banking_risk_presentation
 │
 ├── reports/
-│   └── Banking_Risk_Analytics_Report_Corrected_Aditya_Raj.pdf
+│   └── Banking_Risk_Analytics_Report.pdf
 │
 ├── screenshots/
 │   ├── risk_overview.png
@@ -546,7 +548,7 @@ notebooks/EDA.ipynb
 Import the cleaned dataset into MySQL and execute:
 
 ```text
-sql/banking_risk_operations_mysql.sql
+sql/banking_risk.sql
 ```
 
 ### 5. Open Power BI Dashboard
