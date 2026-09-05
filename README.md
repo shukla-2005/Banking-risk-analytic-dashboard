@@ -590,7 +590,7 @@ Update the data source path if required and select **Refresh**.
 ### Branch Analysis
 
 ```markdown
-![Branch Analysis](screenshots/branch_analysis.png)
+![Branch Analysis](screenshorts/branch_analysis.png)
 ```
 
 ### Customer 360°
